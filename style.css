@@ -1,0 +1,19 @@
+body
+{
+    background-color: burlywood;
+}
+header 
+{
+    text-align: center;
+    font-size: 200%
+}
+main
+{
+    text-align: center;
+    font-size: 150%;
+}
+footer
+{
+    font-size: 150%;
+    text-align: center;
+}
